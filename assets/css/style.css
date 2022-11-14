@@ -776,6 +776,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .hero .hero-title {
+    text-align: end;
     font-size: 4.5rem;
   }
 }
