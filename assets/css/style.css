@@ -9,7 +9,6 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Poppins";
   background-color: #f5f5f5;
   color: #4e4e4e;
 }
@@ -777,6 +776,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .hero .hero-title {
+    font-family: "Poppins";
     text-align: end;
     font-size: 4.5rem;
   }
